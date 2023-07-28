@@ -13,7 +13,7 @@ body{
 }
 
 .cabecalho-titulo{
-    font-size: blue;
+        font-size: 36px;
     font-weight: rgb(157, 9, 255);
     padding: 12px;
     text-align: center;
